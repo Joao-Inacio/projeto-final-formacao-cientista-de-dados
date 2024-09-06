@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto-Final-Formacao-Cientista-de-Dados
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -59,3 +60,6 @@ Projeto Final da Formação de Cientista de Dados
 
 --------
 
+=======
+# Projeto-Final-Formacao-Cientista-de-Dados
+>>>>>>> 50aad0d1b5e85bce4cd3b282442366dd21b7dfbe
